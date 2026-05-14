@@ -1,0 +1,27 @@
+
+body {
+	text-aline: center;
+	margin-bottom: 100px;
+	background-color:peachpuff;
+    /* background-color:#ffdbc9; */
+    color: #8b4513;
+}
+
+.wrapper {
+    max-width: 400px;
+    margin: 0 auto;
+    /* text-align: center; */
+	text-align: left;
+/*     background: #cccccc; */
+  }
+  .txt {
+    display: inline-block;
+    text-align: left;
+  }
+p {
+	color: black;
+}
+
+a {
+	width: 200px;
+  }
